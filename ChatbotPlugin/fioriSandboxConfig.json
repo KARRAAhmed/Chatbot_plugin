@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"ChatbotPlugin": {
+			"component": "com.aymax.button.chatbot",
+			"url": "../../../../../"
+		}
+	}
+}
